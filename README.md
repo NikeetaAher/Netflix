@@ -4,7 +4,7 @@ An interactive dashboard built using Power BI and a Kaggle Netflix dataset to ex
 ## Report Link: https://app.powerbi.com/groups/me/reports/58433d99-a8db-41e5-b41e-be606f91ba85/1896fd0830ba7e75ea25?experience=power-bi
 ## Dashboard Link: https://app.powerbi.com/groups/me/dashboards/9939da1d-1c14-43e9-a948-c53ad4c07c9e?experience=power-bi
 ## Dataset 
-Source: Kaggle - Netflix Movies and TV Shows
+Source: Kaggle - [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list?resource=download)
 
 Contains information on Netflix titles including:
 
