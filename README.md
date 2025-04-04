@@ -1,4 +1,4 @@
-### Netflix Dashboard in Power BI
+## Netflix Dashboard in Power BI
 An interactive dashboard built using Power BI and a Kaggle Netflix dataset to explore content trends, genre popularity, global distribution, and audience engagement.
 
 ### Dataset
