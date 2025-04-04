@@ -1,7 +1,9 @@
 ## Netflix Dashboard in Power BI
 An interactive dashboard built using Power BI and a Kaggle Netflix dataset to explore content trends, genre popularity, global distribution, and audience engagement.
 
-### Dataset
+## Report Link: https://app.powerbi.com/groups/me/reports/58433d99-a8db-41e5-b41e-be606f91ba85/1896fd0830ba7e75ea25?experience=power-bi
+## Dashboard Link: https://app.powerbi.com/groups/me/dashboards/9939da1d-1c14-43e9-a948-c53ad4c07c9e?experience=power-bi
+## Dataset 
 Source: Kaggle - Netflix Movies and TV Shows
 
 Contains information on Netflix titles including:
@@ -22,7 +24,7 @@ IMDb Score, Votes
 
 Poster Image URLs
 
-### Project Workflow
+## Project Workflow
 Data Preparation & Ingestion
 
 Cleaned missing values and normalized columns using Power Query
@@ -41,7 +43,7 @@ Used a clean, interactive layout
 
 Focused on usability, visual storytelling, and dynamic filtering
 
-### KPIs Tracked
+## KPIs Tracked
 Total Number of Titles
 
 Number of Movies & TV Shows
@@ -54,7 +56,7 @@ Votes per Title
 
 Titles per Country and Genre
 
-### Visualizations & Features
+## Visualizations & Features
 Funnel Chart – Rating Group Distribution
 
 KPI Cards – Total Titles, Ratings, and Votes
@@ -69,7 +71,7 @@ Azure Map – Global distribution using bubble sizes
 
 Slicer Filters – Filter by Type, Rating, and Votes
 
-### Key Takeaways
+## Key Takeaways
 Discovered high-performing genres and regions
 
 Gained insights into viewer engagement using votes and ratings
