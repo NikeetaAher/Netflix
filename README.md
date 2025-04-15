@@ -1,4 +1,6 @@
 ## Netflix Dashboard in Power BI
+![image](https://github.com/user-attachments/assets/7a600a09-0595-4eb1-8f1e-1afd1507bec4)
+
 
 ## Report Link: https://app.powerbi.com/groups/me/reports/58433d99-a8db-41e5-b41e-be606f91ba85/1896fd0830ba7e75ea25?experience=power-bi
 ## Dashboard Link: https://app.powerbi.com/groups/me/dashboards/9939da1d-1c14-43e9-a948-c53ad4c07c9e?experience=power-bi
